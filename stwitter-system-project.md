@@ -1,12 +1,11 @@
 # Stwitter System Project
 
-The purpose of this assessment is to allow you to demonstrate your ability to use queues, edge services, Feign, caching, config servers, and Eureka in a project that requires you to create new code and work with existing code.
+The purpose of this assessment is to demonstrate the ability to use queues, edge services, Feign, caching, config servers, and Eureka in a project that requires to create new code and work with existing code.
 
 ## Stwitter
 
-Stwitter (Simple Switter) is a stripped down social media service. The project was started as a proof of concept and the management team now wants you to complete the system for use on the company intranet.
+Stwitter (Simple Twitter) is a stripped down social media service. The project was started as a proof of concept and the management team now wants to complete the system for use on the company intranet.
 
-The existing documentation is contained below. Note that this documentation is not complete - you must look at the existing code in some cases.
 
 ## System Design
 
